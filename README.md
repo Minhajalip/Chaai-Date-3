@@ -1,102 +1,62 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+Chaai Date ☕❤️ 🎯
+
+Basic Details
+
+Team Name: MAGNUS
+
+Team Members
+
+Team Lead: Minhaj Ali – CUSAT
+
+Member 2: Ajay S – CUSAT
 
 
-## Basic Details
-### Team Name: [Name]
-
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
-### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+Project Description
+
+This is a fun, interactive webpage where you invite your special friend (🌝❤️) for a "chaai date" in Malayalam. They can click “Pova” (Let’s go) or try to click “Aloikatte” (No thanks) — but the "No" button cheekily runs away when hovered over! If they finally agree, they get a cute animation as a reward.
 
 
+---
 
+The Problem (that doesn't exist)
+
+Too many people take life too seriously. Also, saying "No" to chai is a crime that must be prevented at all costs.
+
+
+---
+
+The Solution (that nobody asked for)
+
+A website that makes it almost impossible to say "No" to chai — because the "No" button literally refuses to be clicked. Problem solved. Chai saved. Humanity restored.
+
+
+---
+
+Technical Details
+
+
+Languages used: HTML, CSS, JavaScript
+
+Tools used: VS Code, Google sites
+
+
+Project Documentation :
+
+Hosted in google sites - https://sites.google.com/view/minhajintesulaimani
+
+Screenshot 1 – https://drive.google.com/file/d/1tGmrzpCmrxsB27bYBbJX6tx9tthpENZQ/view?usp=drivesdk
+
+Screenshot 2 –
+https://drive.google.com/file/d/1t0wAk5EdPOuvtn1ATZaRFVLiPlKfh9HB/view?usp=drivesdk
+
+Video demo 🫶🏻
+https://drive.google.com/file/d/1tMZwOwPQM4yfTIFVacBPGekV6xiLcoxk/view?usp=drivesdk
+
+Minhaj Ali: HTML/CSS coding,Testing, GIF hunting.
+
+Ajay S: JS Coding,Debugging and creative Malayalam copywriting.
